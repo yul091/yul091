@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m a current Ph.D. student in @UCRiverside from 2022 Fall.
+🔭 I’m a current Ph.D. student @UC Riverside from 2022 Fall.
 
 🌱 My research interests include but are not limited to the intersection of natural language processing (NLP) and intelligent systems. I'm interested in application of NLP and uncertainty estimation in data mining as well as robotics.
 
