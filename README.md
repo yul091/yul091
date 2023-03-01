@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 I’m a current Ph.D. student in @UCRiverside from 2022 Fall.
 
-🌱 My research interests include but are not limited to the inter-disciplinary fields of real-time embedded systems, machine learning systems, and software engineering.
+🌱 My research interests include but are not limited to the intersection of natural language processing (NLP) and intelligent systems. I'm interested in application of NLP and uncertainty estimation in data mining as well as robotics.
 
 <a href="https://www.linkedin.com/in/yufei-ethan-li/">LinkedIn</a>
 
