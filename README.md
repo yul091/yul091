@@ -23,6 +23,3 @@ Here are some ideas to get you started:
 
 <a href="https://yul091.github.io/liyufei.me/">Personal Page</a>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yul091&show_icons=true&count_private=true&theme=buefy)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yul091&layout=compact&theme=buefy&exclude_repo=yul091.github.io,mysite)
