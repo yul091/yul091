@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **yul091/yul091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m a current Ph.D. student @UC Riverside from 2022 Fall.
+🔭 I’m a Ph.D. candidate @UC Riverside.
 
-🌱 My research interests include but are not limited to the intersection of natural language processing (NLP) and intelligent systems. I'm interested in application of NLP and uncertainty estimation in data mining as well as robotics.
+🌱 My research interests include but are not limited to the intersection of natural language processing (NLP) and uncertainty quantification. I'm interested in NLP applications and efficient LLM training & inference with uncertainty-awareness.
 
-<a href="https://www.linkedin.com/in/yufei-ethan-li/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/yufei-li-ethan/">LinkedIn</a>
 
 <a href="https://yul091.github.io/liyufei.me/">Personal Page</a>
 
